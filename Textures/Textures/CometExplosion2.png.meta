@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 63a2fe4a357c2484681bea4c4c451f48
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CometExplosion2_0
+    21300002: CometExplosion2_1
+    21300004: CometExplosion2_2
+    21300006: CometExplosion2_3
+    21300008: CometExplosion2_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CometExplosion2_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 198
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 13, y: 0, z: 0, w: 0}
+    - name: CometExplosion2_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 269
+        width: 251
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CometExplosion2_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 236
+        width: 283
+        height: 310
+      alignment: 9
+      pivot: {x: .473077446, y: .539938569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CometExplosion2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 283
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CometExplosion2_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 95
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

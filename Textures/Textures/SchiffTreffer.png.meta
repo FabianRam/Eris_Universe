@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 70141bf53627711459792ce860afb415
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SchiffTreffer_0
+    21300002: SchiffTreffer_1
+    21300004: SchiffTreffer_2
+    21300006: SchiffTreffer_3
+    21300008: SchiffTreffer_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SchiffTreffer_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 310
+        width: 178
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SchiffTreffer_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 307
+        width: 227
+        height: 214
+      alignment: 9
+      pivot: {x: .567128301, y: .477748126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SchiffTreffer_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 279
+        width: 283
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SchiffTreffer_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 316
+        height: 279
+      alignment: 9
+      pivot: {x: .42766729, y: .510240674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SchiffTreffer_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0685510daf8a4694ebda721e4d231b99
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shildImage: {fileID: 148612, guid: d539819da3ebe384ebb67774ec2e6921, type: 2}
+  - oneLeft: {instanceID: 0}
+  - twoLeft: {instanceID: 0}
+  - threeLeft: {instanceID: 0}
+  - fourLeft: {instanceID: 0}
+  - fiveLeft: {instanceID: 0}
+  - sixLeft: {instanceID: 0}
+  - explosionObject: {instanceID: 0}
+  - playerShield: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

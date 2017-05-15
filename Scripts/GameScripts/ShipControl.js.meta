@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58c15e723025335459ec56da74ca9bdc
+timeCreated: 1440343854
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myTarget: {instanceID: 0}
+  - playerShield: {instanceID: 0}
+  - liveCockpitUI: {instanceID: 0}
+  - mShield: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - racket: {instanceID: 0}
+  - liveText: {instanceID: 0}
+  - hitExplosion: {instanceID: 0}
+  - beAwareSign: {instanceID: 0}
+  - glasSplit: {fileID: 121088, guid: ae581fc29bcff7547862271642fa8114, type: 2}
+  - secBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

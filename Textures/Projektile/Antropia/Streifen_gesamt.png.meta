@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 87d110ba9ee4137418f6fed2ca7bbe56
+timeCreated: 1460032788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Streifen_gesamt_0
+    21300002: Streifen_gesamt_1
+    21300004: Streifen_gesamt_2
+    21300006: Streifen_gesamt_3
+    21300008: Streifen_gesamt_4
+    21300010: Streifen_gesamt_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Streifen_gesamt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 357
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 29.5}
+        - {x: -173.5, y: 26.5}
+        - {x: -178.5, y: 18.5}
+        - {x: -178.5, y: -29.5}
+        - {x: -161.5, y: -34.5}
+        - {x: 141.5, y: -34.5}
+        - {x: 176.5, y: -18.5}
+        - {x: 176.5, y: 14.5}
+        - {x: 159.5, y: 29.5}
+    - name: Streifen_gesamt_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 357
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline:
+      - - {x: 175.5, y: 11}
+        - {x: 166.5, y: 33}
+        - {x: -170.5, y: 33}
+        - {x: -173.5, y: 25}
+        - {x: -173.5, y: -20}
+        - {x: -143.5, y: -31}
+        - {x: 120.5, y: -31}
+        - {x: 161.5, y: -19}
+        - {x: 176.5, y: -3}
+        - {x: 176.5, y: 3}
+    - name: Streifen_gesamt_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 357
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: 33}
+        - {x: -159.5, y: 29}
+        - {x: -178.5, y: 15}
+        - {x: -178.5, y: -31}
+        - {x: 167.5, y: -31}
+        - {x: 178.5, y: -21}
+        - {x: 178.5, y: 20}
+        - {x: 170.5, y: 33}
+    - name: Streifen_gesamt_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 357
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.5, y: 32}
+        - {x: -130.5, y: 32}
+        - {x: -156.5, y: 27}
+        - {x: -169.5, y: 21}
+        - {x: -169.5, y: -24}
+        - {x: -168.5, y: -32}
+        - {x: 146.5, y: -32}
+        - {x: 178.5, y: -20}
+        - {x: 178.5, y: 21}
+        - {x: 173.5, y: 27}
+    - name: Streifen_gesamt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 357
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 23.5}
+        - {x: 52.5, y: 33.5}
+        - {x: -152.5, y: 33.5}
+        - {x: -161.5, y: 32.5}
+        - {x: -173.5, y: 10.5}
+        - {x: -173.5, y: -14.5}
+        - {x: -167.5, y: -25.5}
+        - {x: -122.5, y: -30.5}
+        - {x: 25.5, y: -30.5}
+        - {x: 31.5, y: -29.5}
+        - {x: 71.5, y: -5.5}
+        - {x: 71.5, y: 22.5}
+      - - {x: 154.5, y: 33.5}
+        - {x: 99.5, y: 33.5}
+        - {x: 81.5, y: 29.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 85.5, y: -23.5}
+        - {x: 163.5, y: -23.5}
+        - {x: 172.5, y: -10.5}
+        - {x: 172.5, y: 9.5}
+        - {x: 170.5, y: 19.5}
+    - name: Streifen_gesamt_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 357
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142.5, y: 13}
+        - {x: -143.5, y: 10}
+        - {x: -143.5, y: -27}
+        - {x: -139.5, y: -32}
+        - {x: -46.5, y: -32}
+        - {x: -46.5, y: 13}
+      - - {x: 119.5, y: 25}
+        - {x: 95.5, y: 22}
+        - {x: 83.5, y: 3}
+        - {x: 83.5, y: -18}
+        - {x: 91.5, y: -26}
+        - {x: 157.5, y: -26}
+        - {x: 174.5, y: -12}
+        - {x: 174.5, y: 7}
+        - {x: 154.5, y: 25}
+      - - {x: 53.5, y: 28}
+        - {x: 20.5, y: 30}
+        - {x: -47.5, y: 30}
+        - {x: -48.5, y: 29}
+        - {x: -48.5, y: -8}
+        - {x: -39.5, y: -13}
+        - {x: 41.5, y: -13}
+        - {x: 51.5, y: -7}
+        - {x: 53.5, y: 2}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
